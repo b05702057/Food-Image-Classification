@@ -12,4 +12,4 @@ Moreover, implement the techniques of explainable AI to interpret how the model 
 
 ### Run on Colab (can save your own version)
 * Run this command: git clone <https://github.com/b05702057/Food-Image-Classification.git>
-* Upload the ipynb. to your google drive and open it with colab
+* Upload the .ipynb files to your google drive and open it with colab
