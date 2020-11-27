@@ -11,5 +11,5 @@ Moreover, implement the techniques of explainable AI to interpret how the model 
 * Access the notebook to run the codes: https://colab.research.google.com/drive/14ZUWf0Q3x9mB_w5v3lVdLbeF1KpjgYXl?usp=sharing
 
 ### Run on Colab (can save your own version)
-* Run this command: git clone <https://github.com/b05702057/Binary-Income-Prediction-Model.git>
+* Run this command: git clone <https://github.com/b05702057/Food-Image-Classification.git>
 * Upload the ipynb. to your google drive and open it with colab
