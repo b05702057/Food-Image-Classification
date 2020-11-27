@@ -1,6 +1,6 @@
 # Food Image Classification
 
-### A project that conduct classification of food images with the convolutional neural network model and model explanation techniques
+### A project that includes the classification of food images with a convolutional neural network model and model explanation techniques
 
 ## Task
 Find the best sturcture of the model and conduct data normalization, dropout and weight decay to improve the accuracy.  
