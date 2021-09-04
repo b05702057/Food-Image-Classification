@@ -3,8 +3,7 @@
 ### A project that includes the classification of food images with a convolutional neural network model and model explanation techniques
 
 ## Task
-Find the best sturcture of the model and conduct data normalization, dropout and weight decay to improve the accuracy.  
-Moreover, implement the techniques of explainable AI to interpret how the model learns
+Find the best sturcture of the model and conduct data normalization, dropout and weight decay to improve the accuracy, implementing the techniques of explainable AI to interpret how the model learns
 
 ### Run on Colab (cannot save your own version)
 * Access the notebook to run the codes: https://colab.research.google.com/drive/1Eh3FdmbJ0tMQG1niCez5Fh9P7Ck7InP3?usp=sharing
